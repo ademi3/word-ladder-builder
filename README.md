@@ -11,7 +11,7 @@ dictionary.
 
 Sample Example:
 
-Going from "head" to "tail"
+Going from "head" to "tail" 
 head -> heal -> teal -> tell -> tall -> tail
 
 <img width="259" height="684" alt="Screenshot 2026-04-19 at 9 28 30 PM" src="https://github.com/user-attachments/assets/7df32610-7feb-46c9-84d6-ef61598eaafd" />
