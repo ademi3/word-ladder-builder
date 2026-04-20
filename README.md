@@ -9,7 +9,7 @@ program also includes functions to compare words by counting differences and fin
 dictionary.
 
 
-Sample Example
+Sample Example:
 
 Going from "head" to "tail" 
 
