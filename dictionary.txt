@@ -6711,6 +6711,7 @@ crossword
 bother
 budapest
 conceptual
+heal
 knitting
 bhutan
 liechtenstein
@@ -6723,6 +6724,7 @@ allah
 continent
 unwrap
 longitude
+teal
 resist
 pike
 insertion
